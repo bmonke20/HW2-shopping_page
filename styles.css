@@ -158,7 +158,7 @@ main {
 
 .my-cart {
   /* border: 1px dashed green; */
-  width: 70%;
+  width: 60%;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -314,7 +314,7 @@ background-color: #5ed989;
   /* border: 1px dashed navy; */
   background-color: rgb(234, 231, 231);
   border-radius: 20px;
-  width: 80%;
+  width: 90%;
   height: 50%;
   display: flex;
   justify-content: space-between;
