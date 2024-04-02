@@ -382,11 +382,11 @@ background-color: #5ed989;
 }
 
 .checkout {
-  /* border: 1px solid salmon; */
+  border: 1px solid salmon;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 12%;
+  height: 15%;
 }
 
 .checkout>button {
