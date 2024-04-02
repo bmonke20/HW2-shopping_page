@@ -385,7 +385,8 @@ background-color: #5ed989;
   /* border: 1px solid salmon; */
   display: flex;
   justify-content: center;
-  height: 40%;
+  align-items: center;
+  height: 12%;
 }
 
 .checkout>button {
